@@ -57,7 +57,7 @@ const WeatherOverview = ({ toggleBurgerMenu }) => {
             style={{
               backgroundImage: 'url("/img/weatherbox.png")',
               backgroundSize: "70%",
-              backgroundSize: "cover",
+              /* backgroundSize: "cover", */
             }}
           ></article>
         ))}
